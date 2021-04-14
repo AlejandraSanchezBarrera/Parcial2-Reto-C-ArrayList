@@ -1,0 +1,7 @@
+D:\alexa\UASLP\Semestre IV (2020-2021)\1 Tecnología orientada a objetos\c#\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+D:\alexa\UASLP\Semestre IV (2020-2021)\1 Tecnología orientada a objetos\c#\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+D:\alexa\UASLP\Semestre IV (2020-2021)\1 Tecnología orientada a objetos\c#\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+D:\alexa\UASLP\Semestre IV (2020-2021)\1 Tecnología orientada a objetos\c#\ArrayList\ArrayList\obj\Debug\ArrayList.csprojAssemblyReference.cache
+D:\alexa\UASLP\Semestre IV (2020-2021)\1 Tecnología orientada a objetos\c#\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+D:\alexa\UASLP\Semestre IV (2020-2021)\1 Tecnología orientada a objetos\c#\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+D:\alexa\UASLP\Semestre IV (2020-2021)\1 Tecnología orientada a objetos\c#\ArrayList\ArrayList\obj\Debug\ArrayList.pdb
